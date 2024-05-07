@@ -79,7 +79,8 @@ Create a batch script named "BackupScript.bat" that creates a backup of files wi
 
 ## OUTPUT
 
-![Uploading image.png…]()
+![image](https://github.com/Soundaryajothi/Windows-basic-commands-batchscript/assets/144870490/690150de-e2c3-4881-9f9a-21c8b1691463)
+
 
 
 
